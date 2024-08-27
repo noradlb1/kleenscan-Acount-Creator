@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kleenscan Acount Creator", "kleenscan Acount Creator\kleenscan Acount Creator.vbproj", "{AE00E900-DCD3-4F2D-95BF-002004967C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE00E900-DCD3-4F2D-95BF-002004967C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE00E900-DCD3-4F2D-95BF-002004967C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE00E900-DCD3-4F2D-95BF-002004967C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE00E900-DCD3-4F2D-95BF-002004967C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1011E722-458D-4471-8DC7-736EC2479610}
+	EndGlobalSection
+EndGlobal
